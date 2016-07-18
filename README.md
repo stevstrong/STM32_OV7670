@@ -8,7 +8,7 @@ Hardware:
 - STM32F103C8T6 (blue pill);
 
 Software
-- STM32_OV7670.ino - sketch for the camera;
-- PC tool - used during testing to read out data and evaluate the image.
+- STM32_OV7670.ino = Arduino sketch for the camera;
+- SerialDataDumper.pde = Processing sketch used during testing to read out data and evaluate the image.
 
 
